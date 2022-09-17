@@ -4,7 +4,7 @@
 from Ylgy import Ylgy
 def main():
     #随便填写一个Token
-    Token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTQyODEzMjgsIm5iZiI6MTY2MzE3OTEyOCwiaWF0IjoxNjYzMTc3MzI4LCJqdGkiOiJDTTpjYXRfbWF0Y2g6bHQxMjM0NTYiLCJvcGVuX2lkIjoiIiwidWlkIjo1NTgzNDY1OCwiZGVidWciOiIiLCJsYW5nIjoiIn0.7r3lECqC87vGBrp8gX2TWO6iwKm5WjS_A2gq1BXC4Hc"
+    Token = "*****************"
     #目标UId
     Uid = "1000001"
     #次数
